@@ -17,6 +17,8 @@ A idéia do git é que cada desenvolvedor tenha a sua própria cópia do código
 Nesse repositório também fica guardado todo o histórico de contribuições, podendo saber o que foi modificado e por quem.  
 O Git pode ser operado pelo terminal através da própria ferramenta CLI que possui (o git), mas existem muitas ferramentas com interface de usuário (GUI) para trabalhar o controle de versão com o GIT, e até mesmo exensões para IDEs e editores de texto (como o VS Code) que integram a ferramenta.
 
+### O que é GitHub
+
 O [Github](https://pt.wikipedia.org/wiki/Linus_Torvalds) é uma plataforma online utilizada para hospedar os códigos, é usado como um repositório remoto, e que usa o GIT como ferramenta de versionamento, isso numa maneira bem simples de explicar o que ele é.  
 Lá podemos guardar nossos códigos e expor o repositório para toda a internet ou manter ele privado, apenas para um grupo de pessoas, organização e etc.  
 Básicamente, uma rede social de desenvolvimento.  
