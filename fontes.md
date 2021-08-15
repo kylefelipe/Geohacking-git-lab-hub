@@ -1,0 +1,3 @@
+- [Git e Github: o que são, quais as diferenças e como usar na prática?](https://blog.betrybe.com/tecnologia/git-e-github/)
+- [Github Wikipedia](https://pt.wikipedia.org/wiki/GitHub)
+- [GitLab Wikipedia](https://pt.wikipedia.org/wiki/GitLab)
