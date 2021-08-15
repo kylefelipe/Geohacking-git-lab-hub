@@ -8,5 +8,7 @@ Aqui, vou mostrar um pouquinho do funcionamento da ferramenta GIT e também de G
 
 Sumário:
 
-1 - [Introdução](./Intro.md)
-  - [Git != Git(Hub|lab)](Intro.md#)
+1. [Introdução](./Intro.md)
+   1. [Git != Git(Hub|lab)](./Intro.md#git--githublab)
+   2. [O que é GIT](./Intro.md#o-que-é-git)
+   3. [O que é GitHub](./Intro.md#o-que-é-github)
