@@ -92,6 +92,17 @@ o número após o `~` indica a quantidade de commits que deseja desfazer. No exe
 
 ![Desfazendo commit](images/git_reset_soft.png)
 
+Em algum momento pode ser que queira colocar todas as modificações feitas atualmente em um único commit, e não quer fazer adicionar um a um e fazer o commit logo em seguida. Em casos assim podemos usar o seguinte comando:
+
+```bash
+git commit -am "mensagem"
+# Exemplo
+git commit -am "Adiciona o exemplo 'git commit -am' e refatora alguns links"
+```
+
+Essa opção irá adiciona os arquivos que já tiveram algum commit feito ateriormente e já cria um commit com a mensagen desejada, incluindo algum arquivo addicionado anteriormente no git add sem o devido commit.  
+Os arquivos novos ou nunca commitados não entraram nesse commit.
+
 ## Git Push
 
 Com o comando `git Push` é possível enviar as modificações para o nosso fork ou outro repositório remoto que temos no projeto.  
@@ -110,4 +121,4 @@ Com a opção `-u` as próximas vezes que enviar alterações a partir dessa bra
 
 ![Git push simples](./images/git_push_simpes.png)
 
-[⬅️ Voltar](./Fluxo_de_contribuicao.md)
+[⬅️ Voltar - Fluxo de Contribuição](./Fluxo_de_contribuicao.md)

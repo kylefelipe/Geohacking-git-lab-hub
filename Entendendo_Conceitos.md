@@ -49,5 +49,4 @@ Os Commits são as mudanças que ocorreram no projeto, ele recebe o estado atual
 O Pull Request (ou Merge Request, no Gitlab) é o momento onde enviamos nossas modificações para o projeto principal, para serem revistas pelos participantes do projeto, passar por testes, e se caso não houver nenhum problema, nossas modificações passam a serem aceitas no projeto oficial.
 
 [Fluxo de contribuição ➡️](./Fluxo_de_contribuicao.md)  
-[⬅️ Introdução](./Intro.md)
-
+[⬅️ Voltar - Introdução](./Intro.md)

@@ -44,4 +44,4 @@ Lembre-se de fazer uma boa descrição de tudo que foi feito, para que fique bem
 No GitLab o termo equivalente ao pull request é o merge request.
 
 [Comandos Git ➡️](./Comandos_git.md)  
-[⬅️ Voltar](./Entendendo_Conceitos.md)
+[⬅️ Voltar - Entendendo Conceitos](./Entendendo_Conceitos.md)
