@@ -35,5 +35,7 @@ Sumário:
    3. [Git Add](./Comandos_git.md#Git-Add)
    4. [Git Commit](./Comandos_git.md#Git-Commit)
    5. [Git Push](./Comandos_git.md#Git-Push)
+   6. [Git Status](./Comandos_git.md#Git-Status)
+   7. [Git Log](./Comandos_git.md#Git-Log)
 
 [Introdução ➡️](./Intro.md)

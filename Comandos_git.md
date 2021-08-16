@@ -7,11 +7,15 @@ E aqui estão os comandos.
 
 ## Git Init
 
+[Doc Oficial](https://git-scm.com/docs/git-init/pt_BR)
+
 Quando estamos começando um projeto do zero, temos de iniciar o git na pasta onde iremos trabalhar. e para isso usamos o comando `git init`
 
 ![git init em pasta vazia](./images/git_init.png)
 
 ## Git Clone
+
+[Doc Oficial](https://git-scm.com/docs/git-clone/pt_BR)
 
 Esse comando é o responsável por copiar o repositório para a máquina que queremos trabalhar. Por padrão ele cria uma pasta com o nome do repositório que estamos clonando e coloca os dados lá dentro.
 
@@ -36,6 +40,8 @@ Link SSH:
 ![Link ssh](./images/link_ssh.png)
 
 ## Git Add
+
+[Doc Oficial](https://git-scm.com/docs/git-add/pt_BR)
 
 O git add é o inicio da preparação para o commit, pois é com ele que a gente adiciona um ou mais arquivos ao commit, que é feito logo em seguida.
 
@@ -67,6 +73,8 @@ git reset <nome_do_arquivo>
 ![Git Reset](./images/git_reset.png)
 
 ## Git Commit
+
+[Doc Oficial](https://git-scm.com/docs/git-commit/pt_BR)
 
 O commit, é aqui que dizemos oque fizemos, em poucas palavras, usando a opção -m podemos passar a mensagem que quisermos entre aspas ou aspas dulas, assim, todas as modificações que fizemos anteriormente são 'agrupadas' em uma mesma descrição.
 
@@ -101,9 +109,17 @@ git commit -am "Adiciona o exemplo 'git commit -am' e refatora alguns links"
 ```
 
 Essa opção irá adiciona os arquivos que já tiveram algum commit feito ateriormente e já cria um commit com a mensagen desejada, incluindo algum arquivo addicionado anteriormente no git add sem o devido commit.  
-Os arquivos novos ou nunca commitados não entraram nesse commit.
+Os arquivos novos ou nunca commitados não entrão nesse commit.
+
+![git commit am](./images/git_commit_am.png)
+
+>1 - Há 3 arquivos que tiveram modificações e que já tiveram algum commit e um arquivo arquivo novo.  
+>2 - O comando adiciona apenas os arquivos que já tiveram algum commit anterior.  
+>3 - Apenas arquivo novo aparecem no status.
 
 ## Git Push
+
+[Doc Oficial](https://git-scm.com/docs/git-push/pt_BR)
 
 Com o comando `git Push` é possível enviar as modificações para o nosso fork ou outro repositório remoto que temos no projeto.  
 Podemos definir um repositorio remoto padrão e uma brach padrão para sempre enviar as alterações para lá ao fazermos o pull, pois podemos ter mais de um repositório remoto em um mesmo projeto. Por padrão, o repositório de onde foi feito o fork do projeto é chamado de `origin` mas esse nome pode ser mudado.
@@ -120,5 +136,28 @@ git push -u origin main
 Com a opção `-u` as próximas vezes que enviar alterações a partir dessa branch, basta utilizar `git push` apenas.
 
 ![Git push simples](./images/git_push_simpes.png)
+
+## Git Status
+
+[Doc Oficial](https://git-scm.com/docs/git-status/pt_BR)
+
+O Git status mostra qual o estado atual da branch que está trabalhando.  
+com esse comando podemos verificar:
+
+1 - Se temos mudanças que podem ser commitadas (Submetidas).  
+2 - Mudanças que não foram preparadas para serem submetidas.  
+3 - Arquivos não monitorados
+
+![Git Status](./images/git_status.png)
+
+## Git Log
+
+[Doc Oficial](https://git-scm.com/docs/git-log/pt_BR)
+
+Com o git log é possível ver todas as modificações feitas na branch, ver os commits e até mesmo quais arquivos foram alterados em cada commit.
+
+![Git Log Simples](./images/git_log_simples.png)
+
+![Git log mostrando arquivos modificados](./images/git_log_name_only.png)
 
 [⬅️ Voltar - Fluxo de Contribuição](./Fluxo_de_contribuicao.md)
