@@ -35,7 +35,8 @@ Bom, o Gitlab, ao contrário do G.H permite que os usuários tenham a sua próri
 
 ## Outras ferramentas
 
-Existem muitas ferramentas e sistemas de versionamento (procure por [SVN](https://pt.wikipedia.org/wiki/Subversion) e [Bitbucket](https://pt.wikipedia.org/wiki/Bitbucket))
+Existem muitas ferramentas e sistemas de versionamento (procure por [SVN](https://pt.wikipedia.org/wiki/Subversion) e [Bitbucket](https://pt.wikipedia.org/wiki/Bitbucket))  
+Por ser muito utilizado no terminal, há muitas formas de integrar o git ao console utilizado, mostrando diversas informações nele, como por exemplo, qual branch estamos, se há modificações, se estão prontas para serem enviadas para o repositório e por aí vai.
 
 [Entendendo o Repositório ➡️](./Entendendo_Conceitos.md)  
 [⬅️ Voltar para página principal](https://github.com/kylefelipe/Geohacking-git-lab-hub)
