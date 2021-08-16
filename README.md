@@ -22,3 +22,12 @@ Sumário:
    5. [Push](./Entendendo_Conceitos.md#Push)
    6. [Commits](./Entendendo_Conceitos.md#Commits)
    7. [Pull Request](./Entendendo_Conceitos.md#Pull-Request)
+3. [Fluxo de contribuição](./Fluxo_de_contribuicao.md)
+   [Regras Básicas](./Fluxo_de_contribuicao.md#regras-basicas)
+   1. [Faça o fork](./Fluxo_de_contribuicao.md#Faça-o-fork-do-projeto)
+   2. [Crie branchs](./Fluxo_de_contribuicao.md#Crie-branchs)
+   3. [Commits](./Fluxo_de_contribuicao.md#Commits)
+   4. [Envie as alterações para o fork](Fluxo_de_contribuicao.md#Envie-as-alterações-para-o-fork)
+   5. [Faça Pull Requests](./Fluxo_de_contribuicao.md#Faça-Pull-Requests)
+
+[Introdução ➡️](./Intro.md)
