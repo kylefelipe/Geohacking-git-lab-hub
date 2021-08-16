@@ -7,7 +7,7 @@ Vamos usar aqui o Github para fazer contribuições, mas as dicas podem ser úte
 
 É comum muita gente confundir GITHUB com [GIT](https://pt.wikipedia.org/wiki/Git), devido a similaridade do nome a popularidade das utilizações de ambas as ferramentas, mas há uma diferença entre ambas.
 
-### O que é GIT
+## O que é GIT
 
 > Git, gíria britânica para "cabeça dura"
 
@@ -17,7 +17,7 @@ A idéia do git é que cada desenvolvedor tenha a sua própria cópia do código
 Nesse repositório também fica guardado todo o histórico de contribuições, podendo saber o que foi modificado e por quem.  
 O Git pode ser operado pelo terminal através da própria ferramenta CLI que possui (o git), mas existem muitas ferramentas com interface de usuário (GUI) para trabalhar o controle de versão com o GIT, e até mesmo exensões para IDEs e editores de texto (como o VS Code) que integram a ferramenta.
 
-### O que é GitHub
+## O que é GitHub
 
 O [Github](https://pt.wikipedia.org/wiki/Linus_Torvalds) é uma plataforma online utilizada para hospedar os códigos, é usado como um repositório remoto, e que usa o GIT como ferramenta de versionamento, isso numa maneira bem simples de explicar o que ele é.  
 Lá podemos guardar nossos códigos e expor o repositório para toda a internet ou manter ele privado, apenas para um grupo de pessoas, organização e etc.  
@@ -29,9 +29,13 @@ Após a aquisição do GitHub pela gigante Microssoft, o GitHub ganhou uma inter
 
 De agora em diante, vamos chamar o GitHub carinhosamente de G.H.
 
-E o Gitlab?
+## E o Gitlab?
 
 Bom, o Gitlab, ao contrário do G.H permite que os usuários tenham a sua prória instancia para gerênciar os repositórios, e o G.H tem os seus próprios servidores para armazenar os códigos. E ao contrário do G.H não possue uma ferramenta CLI.
 
+## Outras ferramentas
+
 Existem muitas ferramentas e sistemas de versionamento (procure por [SVN](https://pt.wikipedia.org/wiki/Subversion) e [Bitbucket](https://pt.wikipedia.org/wiki/Bitbucket))
 
+[Entendendo o Repositório ➡️](./Entendendo_Conceitos.md)  
+[⬅️ Voltar para página principal](https://github.com/kylefelipe/Geohacking-git-lab-hub)
