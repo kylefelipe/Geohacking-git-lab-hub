@@ -2,9 +2,10 @@
 
 Eu aprendi que hacker não é necessáriamente algo ruim.  
 Pois hackers tem a capacidade de pegar as ferramentas que tem, estudá-las e modificalas para seu uso, explorando suas partes boas e ruins.  
-E descobri existem muito mais hackers por aí do que se imagina, e provavelmente se está lendo esse repositório, você também pode ser considerado um hacker.
+E descobri existem muito mais hackers por aí do que se imagina, e provavelmente se está lendo esse repositório, você também pode ser considerado um hacker.  
+Considerando isso a ferramenta GIT, e o Github|Gitlab não precisam ser necessáriamente utilizados para programação e/ou compartilhamento de código. Há hoje muitos repositórios que possuem conteúdos como livros, tutoriais e que são utilizados como blogs, sites pessoais e por aí vai, assim como o Youtube, que é uma ferramenta de entretenimento é utilizada para divulgar conhecimento, cursos, aulas dentre outras coisas.
 
-Aqui, vou mostrar um pouquinho do funcionamento da ferramenta GIT e também de Github|Gitlab, em especial para quem trabalha com geoprocessamento no dia a dia.
+Aqui, vou mostrar um pouquinho do funcionamento da ferramenta GIT e também de Github|Gitlab, que podem ser bem úteis para quem trabalha com geoprocessamento no dia a dia.
 
 Sumário:
 
