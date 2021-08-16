@@ -29,5 +29,11 @@ Sumário:
    3. [Commits](./Fluxo_de_contribuicao.md#Commits)
    4. [Envie as alterações para o fork](Fluxo_de_contribuicao.md#Envie-as-alterações-para-o-fork)
    5. [Faça Pull Requests](./Fluxo_de_contribuicao.md#Faça-Pull-Requests)
+4. [Comandos Básicos](./Comandos_git.md)
+   1. [Git Init](./Comandos_git.md#Git-Init)
+   2. [Git Clone](./Comandos_git.md#Git-Clone)
+   3. [Git Add](./Comandos_git.md#Git-Add)
+   4. [Git Commit](./Comandos_git.md#Git-Commit)
+   5. [Git Push](./Comandos_git.md#Git-Push)
 
 [Introdução ➡️](./Intro.md)
